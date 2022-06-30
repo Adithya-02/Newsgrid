@@ -45,3 +45,6 @@
 .page-container > *:first-child{
   grid-row: 1;
 }
+#showcase .container a{
+  margin-bottom: 0.5rem;
+}
